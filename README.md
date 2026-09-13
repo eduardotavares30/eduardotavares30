@@ -10,6 +10,10 @@
 
 ## Linguagens
 
+<p> <img width="30" height="30" alt="html5-icon" src="https://github.com/user-attachments/assets/815f99a7-d8d7-42ad-9eb7-9b817716a7e3" align="top" />&nbsp;&nbsp; HTML 5 </p>
+<p> <img width="30" height="30" alt="css3-icon" src="https://github.com/user-attachments/assets/ef529ca9-1956-44bf-a26e-dc9478ba9c82" align="top" />&nbsp;&nbsp; CSS 3 </p>
+<p> <img width="30" height="30" alt="javascript-icon" src="https://github.com/user-attachments/assets/b92dbb89-b2c9-4e69-b739-59914feb2be5" align="top" />&nbsp;&nbsp; JAVASCRIPT </p>
+
 <!--
 **eduardotavares30/eduardotavares30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
