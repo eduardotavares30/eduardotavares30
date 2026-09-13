@@ -8,6 +8,8 @@
 
   - :dart: Objetivos: continuar criando projetos significativos, aprendendo continuamente e compartilhando conhecimento com a comunidade.
 
+## Linguagens
+
 <!--
 **eduardotavares30/eduardotavares30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
