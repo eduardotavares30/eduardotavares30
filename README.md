@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá mundo Dev, eu sou Eduardo <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
+  - :desktop_computer: Sou um Programador Web apaixonado por criar soluções escaláveis ​​e fáceis de usar.
+
+  - :house_with_garden: Estou morando no Mato Grosso, cidade de Sinop.
+
+  - :books: Atualmente estou aprendendo o curso de Desenvolvedor Full-Stack, nas aulas do <a href="https://formacoes.devclub.com.br/m/courses">DevClub</a>, com o professor Rodolfo Mori.
+
+  - :dart: Objetivos: continuar criando projetos significativos, aprendendo continuamente e compartilhando conhecimento com a comunidade.
 
 <!--
 **eduardotavares30/eduardotavares30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
